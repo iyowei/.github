@@ -2,9 +2,9 @@
 
 ### 哈喽 👋
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://cristianmarint.github.io/DEPORCO/"><img src="https://imgur.com/nuQbn48.gif" width="100%" height="auto" ></a>
-</p>
+</p> -->
 
 **简介** 这是一个代码库，宿主目前涉及命令行、浏览器、Node、Electron、小程序、iOS，提取自真实需求。
 
